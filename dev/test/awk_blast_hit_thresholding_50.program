@@ -1,0 +1,2 @@
+#!/bin/awk -f
+{ if($4>49) print $0;}
